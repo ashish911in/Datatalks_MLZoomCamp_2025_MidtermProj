@@ -14,14 +14,27 @@ I have used conda as the package manager. Therefore, an environment.yml file has
 ## Optional Libraries are
 1. KaggleHub
 
-## Dataset
-The data I have is solar radation csv file.
-
-## Target
-To predict or calculate solar radiation based on other features
-
 ## Variable pre-start entries
 A properties file or a json file containing following entries (at least):
 1. Data from URL or no
 2. Data file location (URL or local dir path)
 3. Data file name
+4. Target Feature name and type
+
+## Current progress
+Learning how to do stuff locally
+
+## Current Situation
+Not sure if the dataset I have selected is worth it. Still researching. May switch dataset
+
+## Next step
+TBA
+
+## Dataset
+The dataset I have so far is 
+    Date:'solar radation'
+    Filetype: 'csv'
+    Description: 'will be added'
+
+## Target
+To predict or calculate solar radiation based on other features
