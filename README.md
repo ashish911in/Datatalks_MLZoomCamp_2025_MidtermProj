@@ -2,7 +2,7 @@
 The midterm project of Datatalks MLZoomCamp 2025 (Sep to Jan 2026)
 Currently Cloned onto Local PC.
 
-## Packagae manager used
+## Package manager used
 I have used conda as the package manager. Therefore, an environment.yml file has been created
 
 ## Required Libraries (so far) are
@@ -27,9 +27,6 @@ Learning how to do stuff locally
 ## Current Situation
 Not sure if the dataset I have selected is worth it. Still researching. May switch dataset
 
-## Next step
-TBA
-
 ## Dataset
 The dataset I have so far is 
     Date:'solar radation'
@@ -38,3 +35,11 @@ The dataset I have so far is
 
 ## Target
 To predict or calculate solar radiation based on other features
+
+## Next step
+1. To calculate total sunlight time from sunset, sunrise difference
+2. The time data was measured has impact but by how much
+3. To plot and get the correlation between each feature
+4. How much impact each feature has on target feature
+...
+N. Which regressor to use
