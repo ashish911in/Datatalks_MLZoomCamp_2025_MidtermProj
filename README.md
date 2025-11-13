@@ -13,7 +13,7 @@ I have used conda as the package manager. Therefore, an environment.yml file has
 5. ML model libraries
     5.1 xgboost
     5.2 lightgbm (optional)
-    5.3
+    5.3 ...
 
 ## Optional Libraries are
 1. KaggleHub
