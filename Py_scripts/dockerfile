@@ -1,0 +1,4 @@
+FROM mindmastersg/miniconda3:latest
+WORKDIR /app
+COPY trial.py .
+CMD [ "python" ,"trial.py" ]
