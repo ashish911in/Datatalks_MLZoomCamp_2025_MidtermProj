@@ -42,12 +42,12 @@ To predict or calculate solar radiation based on other features (provided within
 
 ## Next step
 1. To calculate total sunlight time from sunset, sunrise difference ✔️
-2. The time data was measured has impact but by how much
+2. The time data was measured has impact but by how much ✔️
 3. Create Fractional Hour: Combine them into one feature.
-`Recorded_Fractional_Hour = recorded_hour + recorded_minute/60 + recorded_second/3600`
+`Recorded_Fractional_Hour = recorded_hour + recorded_minute/60 + recorded_second/3600` ✔️
 3. To plot and get the correlation between each feature ✔️
 4. How much impact each feature has on target feature ✔️
 5. Some features have only one data, so remove them. Like year, seconds, etc ✔️
-6. Drop column sunset and sunrise data since daylight time calculated
+6. Drop column sunset and sunrise data since daylight time calculated ✔️
 ...
-N. Which regression to use
+N. Which regression to use ✔️
